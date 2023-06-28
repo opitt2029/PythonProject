@@ -8,7 +8,7 @@ from PythonProject.pipeline.steps.postflight import Postflight
 
 def main():
     user_inputs = {
-        "channel_id": "UCKSVUHI9rbbkXhvAXK-2uxA"
+        "channel_id": "UCvpredjG93ifbCP1Y77JyFA"
     }
 
     steps = [
